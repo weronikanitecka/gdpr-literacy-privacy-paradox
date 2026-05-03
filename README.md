@@ -1,1 +1,1 @@
-# Behind the Curtain: How GDPR Literacy Bridges the Privacy Paradox
+# Behind the Curtain: GDPR Literacy and the Privacy Paradox
