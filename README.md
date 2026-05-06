@@ -32,8 +32,7 @@ Formal mediation via nonparametric bootstrapping (5,000 simulations) decomposes 
 ### Specification
 
 ```
-log[P(Yi=1) / (1−P(Yi=1))] = β₀ + β₁Heard_i + β₂Score_i + β₃ConcUse_i
-                              + β₄ConcTrack_i + β₅BaseCtrl_c + ε_i
+log[P(Yi=1) / (1−P(Yi=1))] = β₀ + β₁Heard_i + β₂Score_i + β₃ConcUse_i + β₄ConcTrack_i + β₅BaseCtrl_c + ε_i
 ```
 
 All models estimated with Eurobarometer post-stratification weights. Results reported as log-odds coefficients and average marginal effects (AMEs).
